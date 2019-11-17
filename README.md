@@ -2,7 +2,7 @@
 
 A Python script to show images and video on a TV that can be used in a lab to profile interesting
 research projects.  Also suitable as a simple digital billboard at a place of business.
-Named *SWSL-TV* since this code is used to drive a 4k display for the
+Named *SWSL-TV* since this code is used to drive a 4k display in the
 [Smart Water Systems Lab](https://www.usask.ca/water/research/Smart%20Water%20Systems%20Laboratory.php)
 at the [University of Saskatchewan](https://www.usask.ca/).
 
@@ -18,7 +18,7 @@ at the [University of Saskatchewan](https://www.usask.ca/).
 #### Hardware
 
 - [Asus Tinkerboard](https://en.wikipedia.org/wiki/Asus_Tinker_Board)
-- 5V USB power supply (or alternate power through the header)
+- 5V USB power supply (or alternate power through the appropriate header)
 - HDMI cable
 - TV
 - Ethernet cable (for rsync or OS updates)
@@ -144,5 +144,3 @@ for `feh` are required.
 ## Acknowledgments
 * Full Deck Visuals (Saskatoon, Saskatchewan, Canada) for the TV image
 * https://tinkerboarding.co.uk/forum/archive/index.php/thread-820.html
-* [delegator](https://github.com/kennethreitz/delegator.py)
-* [holidays](https://github.com/dr-prodigy/python-holidays)
